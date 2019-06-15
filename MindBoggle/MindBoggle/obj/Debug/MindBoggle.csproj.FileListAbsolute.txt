@@ -1,0 +1,9 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\bin\Debug\MindBoggle.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\bin\Debug\MindBoggle.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\bin\Debug\MindBoggle.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.Form1.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\MindBoggle\MindBoggle\obj\Debug\MindBoggle.csprojResolveAssemblyReference.cache
